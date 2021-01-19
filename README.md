@@ -7,5 +7,5 @@ just checking on different comparison setups
 ##Deployment
 
 ## Purpose
-
+note: this is not mine
 Sample website with plenty of files for demos
