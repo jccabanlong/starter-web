@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ##Introduction
-
+just checking on different comparison setups
 ##Deployment
 
 ## Purpose
