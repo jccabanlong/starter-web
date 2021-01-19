@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
+## How to Continue? 
+fork repo and issue pull request
+
 ##Introduction
 just checking on different comparison setups
 ##Deployment
